@@ -10,22 +10,32 @@ div {
   padding: 20px;
 }
 a{
-  margin: 20px;
+  margin: 5px;
+  color: #66BFBF;
+  font-weight: bold;
 }
 
 p {
   font-family: "Abel", sans-serif;
-  font-size: 18px;
+  font-size: 2em;
+  color: Grey;
 }
 h1 {
   margin-top: 0;
   font-family: "Sacramento", cursive;
+  font-size: 5.5em;
+  color: #66BFBF;
+
 }
 h2 {
   font-family: "Montserrat", sans-serif;
+    color: #66BFBF;
+    font-size: 2em;
 }
 h3 {
   font-family: "Montserrat", sans-serif;
+  color: #11999E;
+  font-size: 2em;
 }
 
 body {
